@@ -1,2 +1,3 @@
-# OOP-02
+# OOP
+
 ScotlandYard Game
